@@ -1,0 +1,7 @@
+npm create vite@latest my-app -- --template react-ts
+cd my-app
+npm i
+npm run dev
+
+https://tailwindcss.com/docs/guides/vite
+
