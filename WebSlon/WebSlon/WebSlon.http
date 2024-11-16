@@ -1,0 +1,6 @@
+@WebSlon_HostAddress = http://localhost:5102
+
+GET {{WebSlon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
