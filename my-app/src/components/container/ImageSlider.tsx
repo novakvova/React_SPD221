@@ -31,10 +31,10 @@ const ImageSlider = () => {
     };
 
     const images = [
-        '/images/image1.jpg',
-        '/images/image2.jpg',
-        '/images/image3.jpg',
-        '/images/image4.jpg',
+        'http://localhost:5102/images/1.jpg',
+        'http://localhost:5102/images/2.jpg',
+        'http://localhost:5102/images/3.jpg',
+        'http://localhost:5102/images/4.jpg',
     ];
 
     return (
